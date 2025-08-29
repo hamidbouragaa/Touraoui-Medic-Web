@@ -5,6 +5,7 @@ import { Button } from './ui/button';
 export default function Header() {
   const navLinks = [
     { href: '/#services', label: 'Services' },
+    { href: '/specialites', label: 'Spécialités' },
     { href: '/#health-resources', label: 'Ressources' },
     { href: '/blog', label: 'Blog' },
     { href: '/#contact', label: 'Contact' },
